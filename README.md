@@ -7,8 +7,8 @@ Copied from the original at https://sanctum.geek.nz/why-not-github.html
 Last updated: Sun, 04 Jul 2021 12:10:48 +0000
 
 I host all my own code on my [cgit
-instance](https://dev.sanctum.geek.nz/cgit/). I do have [an account on
-GitHub](https://github.com/tejr), but only because it's a requirement to
+instance](). I do have [an account on
+GitHub](), but only because it's a requirement to
 contribute to certain projects and even to log into some websites. I
 avoid using the account where possible, and I don't host code on it
 anymore since June 2016.
